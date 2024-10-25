@@ -6,9 +6,9 @@ The system is responsible of receiving commands through UART receiver to do diff
 ![image](https://github.com/user-attachments/assets/37e2ec44-5c1d-4d18-9a52-ef0ba1afd1cb)
 
 # **System Specifications** 
-Reference clock (REF_CLK) is 50 MHz.
-UART clock (UART_CLK) is 3.6864 MHz.
-Clock Divider is always on (clock divider enable = 1).
+- Reference clock (REF_CLK) is 50 MHz.
+- UART clock (UART_CLK) is 3.6864 MHz.
+- Clock Divider is always on (clock divider enable = 1).
 
 # **Supported Commands**
 - Register file write.
