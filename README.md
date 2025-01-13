@@ -62,5 +62,6 @@ The system is responsible of receiving commands through UART receiver to do diff
 ![image](https://github.com/user-attachments/assets/a62da064-f13e-4db2-b6b3-d65d730fbd51)
 
 
+for more details kindly check attached pdf file.
 
 
